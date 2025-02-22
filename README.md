@@ -43,3 +43,7 @@ The dataset consists of `.wav` files for 10 speech commands:
 - `matplotlib` - Visualization of spectrograms
 
 ---
+## Future Work
+- **Integrate Federated Learning (FL)** for decentralized AI training.
+- **Combine speech and text analysis** to create a multimodal learning model.
+- **Apply the model to medical speech analysis**, such as doctor-patient interactions.
